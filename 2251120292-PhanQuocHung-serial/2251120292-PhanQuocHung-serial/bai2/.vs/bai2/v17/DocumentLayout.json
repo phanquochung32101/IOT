@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\baitap\\baihoc\\IoT\\2251120292-PhanQuocHung-serial\\bai2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59ACCAF3-9B75-4296-A6F0-5039F94DF5D4}|bai2\\bai2.csproj|c:\\baitap\\baihoc\\iot\\2251120292-phanquochung-serial\\bai2\\bai2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59ACCAF3-9B75-4296-A6F0-5039F94DF5D4}|bai2\\bai2.csproj|solutionrelative:bai2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59ACCAF3-9B75-4296-A6F0-5039F94DF5D4}|bai2\\bai2.csproj|c:\\baitap\\baihoc\\iot\\2251120292-phanquochung-serial\\bai2\\bai2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59ACCAF3-9B75-4296-A6F0-5039F94DF5D4}|bai2\\bai2.csproj|solutionrelative:bai2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59ACCAF3-9B75-4296-A6F0-5039F94DF5D4}|bai2\\bai2.csproj|c:\\baitap\\baihoc\\iot\\2251120292-phanquochung-serial\\bai2\\bai2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59ACCAF3-9B75-4296-A6F0-5039F94DF5D4}|bai2\\bai2.csproj|solutionrelative:bai2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8CF474-4720-4785-827F-5E5B4563C790}|Solution Items{AD8CF474-4720-4785-827F-5E5B4563C790}|C:\\baitap\\baihoc\\IoT\\2251120292-PhanQuocHung-serial\\bai2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8CF474-4720-4785-827F-5E5B4563C790}|Solution Items{AD8CF474-4720-4785-827F-5E5B4563C790}|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59ACCAF3-9B75-4296-A6F0-5039F94DF5D4}|bai2\\bai2.csproj|c:\\baitap\\baihoc\\iot\\2251120292-phanquochung-serial\\bai2\\bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59ACCAF3-9B75-4296-A6F0-5039F94DF5D4}|bai2\\bai2.csproj|solutionrelative:bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59ACCAF3-9B75-4296-A6F0-5039F94DF5D4}|bai2\\bai2.csproj|c:\\baitap\\baihoc\\iot\\2251120292-phanquochung-serial\\bai2\\bai2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{59ACCAF3-9B75-4296-A6F0-5039F94DF5D4}|bai2\\bai2.csproj|solutionrelative:bai2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59ACCAF3-9B75-4296-A6F0-5039F94DF5D4}|bai2\\bai2.csproj|c:\\baitap\\baihoc\\iot\\2251120292-phanquochung-serial\\bai2\\bai2\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{59ACCAF3-9B75-4296-A6F0-5039F94DF5D4}|bai2\\bai2.csproj|solutionrelative:bai2\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\baitap\\baihoc\\IoT\\2251120292-PhanQuocHung-serial\\bai2\\bai2\\Program.cs",
+              "RelativeDocumentMoniker": "bai2\\Program.cs",
+              "ToolTip": "C:\\baitap\\baihoc\\IoT\\2251120292-PhanQuocHung-serial\\bai2\\bai2\\Program.cs",
+              "RelativeToolTip": "bai2\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:03:26.952Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "form1.cs",
+              "DocumentMoniker": "C:\\baitap\\baihoc\\IoT\\2251120292-PhanQuocHung-serial\\bai2\\form1.cs",
+              "RelativeDocumentMoniker": "form1.cs",
+              "ToolTip": "C:\\baitap\\baihoc\\IoT\\2251120292-PhanQuocHung-serial\\bai2\\form1.cs",
+              "RelativeToolTip": "form1.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:27:35.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\baitap\\baihoc\\IoT\\2251120292-PhanQuocHung-serial\\bai2\\bai2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "bai2\\Form1.Designer.cs",
+              "ToolTip": "C:\\baitap\\baihoc\\IoT\\2251120292-PhanQuocHung-serial\\bai2\\bai2\\Form1.Designer.cs",
+              "RelativeToolTip": "bai2\\Form1.Designer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:59:39.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\baitap\\baihoc\\IoT\\2251120292-PhanQuocHung-serial\\bai2\\bai2\\Form1.cs",
+              "RelativeDocumentMoniker": "bai2\\Form1.cs",
+              "ToolTip": "C:\\baitap\\baihoc\\IoT\\2251120292-PhanQuocHung-serial\\bai2\\bai2\\Form1.cs",
+              "RelativeToolTip": "bai2\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:00:28.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\baitap\\baihoc\\IoT\\2251120292-PhanQuocHung-serial\\bai2\\bai2\\Form1.cs",
+              "RelativeDocumentMoniker": "bai2\\Form1.cs",
+              "ToolTip": "C:\\baitap\\baihoc\\IoT\\2251120292-PhanQuocHung-serial\\bai2\\bai2\\Form1.cs [Design]",
+              "RelativeToolTip": "bai2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:06:30.359Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\baitap\\baihoc\\IoT\\2251120292-PhanQuocHung-serial\\bai2\\bai2\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "bai2\\Properties\\Settings.settings",
+              "ToolTip": "C:\\baitap\\baihoc\\IoT\\2251120292-PhanQuocHung-serial\\bai2\\bai2\\Properties\\Settings.settings",
+              "RelativeToolTip": "bai2\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-10-24T13:06:23.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\baitap\\baihoc\\IoT\\2251120292-PhanQuocHung-serial\\bai2\\bai2\\App.config",
+              "RelativeDocumentMoniker": "bai2\\App.config",
+              "ToolTip": "C:\\baitap\\baihoc\\IoT\\2251120292-PhanQuocHung-serial\\bai2\\bai2\\App.config",
+              "RelativeToolTip": "bai2\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-24T13:06:03.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+C:\baitap\baihoc\IoT\2251120292-PhanQuocHung-serial\bai2\bai2\obj\Debug\bai2.csproj.AssemblyReference.cache
+C:\baitap\baihoc\IoT\2251120292-PhanQuocHung-serial\bai2\bai2\obj\Debug\bai2.Properties.Resources.resources
+C:\baitap\baihoc\IoT\2251120292-PhanQuocHung-serial\bai2\bai2\obj\Debug\bai2.csproj.GenerateResource.cache
+C:\baitap\baihoc\IoT\2251120292-PhanQuocHung-serial\bai2\bai2\obj\Debug\bai2.csproj.CoreCompileInputs.cache
+C:\baitap\baihoc\IoT\2251120292-PhanQuocHung-serial\bai2\bai2\bin\Debug\bai2.exe.config
+C:\baitap\baihoc\IoT\2251120292-PhanQuocHung-serial\bai2\bai2\bin\Debug\bai2.exe
+C:\baitap\baihoc\IoT\2251120292-PhanQuocHung-serial\bai2\bai2\bin\Debug\bai2.pdb
+C:\baitap\baihoc\IoT\2251120292-PhanQuocHung-serial\bai2\bai2\bin\Debug\System.IO.Ports.dll
+C:\baitap\baihoc\IoT\2251120292-PhanQuocHung-serial\bai2\bai2\bin\Debug\System.IO.Ports.xml
+C:\baitap\baihoc\IoT\2251120292-PhanQuocHung-serial\bai2\bai2\obj\Debug\bai2.csproj.Up2Date
+C:\baitap\baihoc\IoT\2251120292-PhanQuocHung-serial\bai2\bai2\obj\Debug\bai2.exe
+C:\baitap\baihoc\IoT\2251120292-PhanQuocHung-serial\bai2\bai2\obj\Debug\bai2.pdb
+C:\baitap\baihoc\IoT\2251120292-PhanQuocHung-serial\bai2\bai2\obj\Debug\ArduinoController.Form1.resources

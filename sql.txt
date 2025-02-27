@@ -1,0 +1,14 @@
+CREATE DATABASE quanlysach;
+USE quanlysach;
+
+CREATE TABLE user (
+    ID INT AUTO_INCREMENT PRIMARY KEY,
+    username VARCHAR(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_as_cs UNIQUE,
+    password VARCHAR(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_as_cs
+);
+
+CREATE TABLE books (
+    book_id INT AUTO_INCREMENT PRIMARY KEY,  -- Mã sách, tự động tăng
+    title VARCHAR(255) NOT NULL,             -- Tên sách
+    price DECIMAL(10, 2) NOT NULL            -- Giá sách, với 2 chữ số thập phân
+);

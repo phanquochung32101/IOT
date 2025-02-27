@@ -1,0 +1,10 @@
+C:\baitap\baihoc\IoT\2251120292-PhanQuocHung-test\Test-code\Test\bin\Debug\Test.exe.config
+C:\baitap\baihoc\IoT\2251120292-PhanQuocHung-test\Test-code\Test\bin\Debug\Test.exe
+C:\baitap\baihoc\IoT\2251120292-PhanQuocHung-test\Test-code\Test\bin\Debug\Test.pdb
+C:\baitap\baihoc\IoT\2251120292-PhanQuocHung-test\Test-code\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\baitap\baihoc\IoT\2251120292-PhanQuocHung-test\Test-code\Test\obj\Debug\Test.Form1.resources
+C:\baitap\baihoc\IoT\2251120292-PhanQuocHung-test\Test-code\Test\obj\Debug\Test.Properties.Resources.resources
+C:\baitap\baihoc\IoT\2251120292-PhanQuocHung-test\Test-code\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\baitap\baihoc\IoT\2251120292-PhanQuocHung-test\Test-code\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\baitap\baihoc\IoT\2251120292-PhanQuocHung-test\Test-code\Test\obj\Debug\Test.exe
+C:\baitap\baihoc\IoT\2251120292-PhanQuocHung-test\Test-code\Test\obj\Debug\Test.pdb
